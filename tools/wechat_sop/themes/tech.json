@@ -1,0 +1,24 @@
+{
+  "name": "tech",
+  "display_name": "科技（蓝色紧凑）",
+  "description": "蓝色强调、紧凑行距、代码块突出，适合教程、工具、技术文章。",
+  "primary_color": "#1f6feb",
+  "color": "#2f363d",
+  "font_family": "-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif",
+  "font_size": "16px",
+  "line_height": "1.75",
+  "styles": {
+    "h1": {"font_size": "22px", "font_weight": "700", "margin": "0 0 1.1em", "line_height": "1.4"},
+    "h2": {"font_size": "20px", "font_weight": "700", "margin": "1.9em 0 0.9em", "line_height": "1.4"},
+    "h3": {"font_size": "17px", "font_weight": "700", "margin": "1.5em 0 0.7em", "line_height": "1.5"},
+    "p": {"margin": "0 0 1.4em", "letter_spacing": "0.4px"}
+  },
+  "x": {
+    "code_bg": "rgba(31,111,235,0.08)",
+    "code_text": "#1f6feb",
+    "quote_bg": "rgba(31,111,235,0.06)",
+    "table_head_bg": "rgba(31,111,235,0.10)",
+    "heading_number_color": "#1f6feb",
+    "link_color": "#1f6feb"
+  }
+}
