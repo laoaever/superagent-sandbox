@@ -1,0 +1,24 @@
+{
+  "name": "serif",
+  "display_name": "衬线（杂志感）",
+  "description": "衬线字体、砖红色强调、行距更松，适合随笔、观点、深度长文。",
+  "primary_color": "#b3402a",
+  "color": "#333333",
+  "font_family": "'Optima-Regular', Optima, 'PingFang SC', 'Songti SC', 'STSong', serif",
+  "font_size": "16px",
+  "line_height": "1.9",
+  "styles": {
+    "h1": {"font_size": "23px", "font_weight": "700", "margin": "0 0 1.2em", "line_height": "1.45"},
+    "h2": {"font_size": "20px", "font_weight": "700", "margin": "2.2em 0 1em", "line_height": "1.4"},
+    "h3": {"font_size": "17px", "font_weight": "700", "margin": "1.8em 0 0.8em", "line_height": "1.5"},
+    "p": {"margin": "0 0 1.7em", "letter_spacing": "0.8px", "text_align": "justify"}
+  },
+  "x": {
+    "code_bg": "rgba(0,0,0,0.05)",
+    "code_text": "#b3402a",
+    "quote_bg": "rgba(179,64,42,0.06)",
+    "table_head_bg": "rgba(179,64,42,0.08)",
+    "heading_number_color": "#b3402a",
+    "link_color": "#576b95"
+  }
+}
